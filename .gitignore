@@ -1,0 +1,11 @@
+*.o
+*.out
+*.dSYM/
+a.out
+a.out.dSYM/
+cmake-build-debug/
+cmake-build-release/
+build/
+.idea/
+.vscode/
+.DS_Store
